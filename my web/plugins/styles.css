@@ -1,0 +1,201 @@
+html,body{
+	background-color: #3fb0ac;
+	background-repeat:repeat-y;
+	width: 100%;
+	 height: 100%;
+	 margin: 0px;
+	 padding: 0px;
+	 overflow-x: hidden;
+}
+
+
+.nav{
+	background-color: #546E7A;
+	padding-top: 0.5rem;
+}
+
+
+.row
+{
+	font-size: 40px;
+	font-family: 'Kaushan Script';
+}
+
+
+h1{
+	text-align: center;
+}
+
+
+.col-md-6 .img-responsive
+{
+	margin: 0 auto;
+
+}
+
+#p1{
+	font-family: 'Great Vibes';
+	font-size: 1.9rem;
+	font-weight: bold;
+}
+
+.jumbotron{
+background-color: #3fb0ac;
+
+}
+
+.intro,#intro
+{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Poiret One';
+	font-weight:bold;
+}
+
+.img{
+border: 2px solid white;
+}
+
+.hobbies,.languages
+{
+	background-color: #E0E0E0;
+	font-size: 20px;
+  padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 400px;
+
+}
+
+.education
+{
+	background-color: #E0E0E0;
+	font-size: 20px;
+	padding-left: 4rem;
+	padding-bottom: 0.7rem;
+	padding-top: 10px;
+	margin: 0 auto;
+	height: 400px;
+}
+
+.abt{
+	padding-left: 17px;
+	padding-right: 17px;
+	text-align: justify;
+}
+
+.sotta{
+	text-align: center;
+	font-family: 'Poiret One';
+	font-weight: bold;;
+}
+
+.contact{
+	background-color: black;
+	font-size: 3rem;
+	padding-left: 3rem;
+	padding-bottom: 5rem;
+}
+
+.uname{
+	padding-right: 5rem;
+
+}
+
+.sicon{
+	color: white;
+}
+
+.cards{
+	background-color: #173e43;
+}
+
+hr
+{
+height: 0.1rem;
+background-color:#757575;
+
+}
+
+.heading
+{
+	font-family: 'Poiret One';
+	font-size: 4rem;
+	font-weight: normal;
+}
+
+.details
+{
+	font-family: 'Roboto';
+}
+
+ .fa.fa-border{
+	color: black;
+}
+
+.quote{
+	padding-left: 2rem;
+	padding-right: 1rem;
+	padding-top: 3rem;
+	font-family: 'Sacramento';
+	font-weight: 530;
+	font-size: 5rem;
+}
+
+.uname
+{
+	color: #757575;
+	font-size: 2rem;
+}
+
+
+#getin
+{
+	color: #757575;
+	padding-bottom: 2rem;
+}
+
+.pad
+{
+	padding-top: 4rem;
+}
+
+.selec
+{
+	color: #E0E0E0;
+	font-size: 1.53rem;
+}
+
+.fa.fa-star
+{
+	color: green;
+}
+
+#st
+{
+	color: black;
+}
+
+#abtme
+{
+	font-size: 2.6rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.year
+{
+	font-size: 1.6rem;
+}
+
+#abt
+{
+	background-color: #546E7A;
+	color: #212121;
+}
+
+
+#preloader
+ {
+	position: fixed; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: white url("pics/loader.gif") no-repeat center center;
+ }
